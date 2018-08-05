@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveThePrincess", "SaveThePrincess\SaveThePrincess.csproj", "{B033E9D4-D38A-4FA8-A7D8-17C84DB47DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveThePrincess2", "SaveThePrincess2\SaveThePrincess2.csproj", "{7F4A6D57-D99F-4F34-A1F1-F1D7B14F3300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B033E9D4-D38A-4FA8-A7D8-17C84DB47DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B033E9D4-D38A-4FA8-A7D8-17C84DB47DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B033E9D4-D38A-4FA8-A7D8-17C84DB47DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4A6D57-D99F-4F34-A1F1-F1D7B14F3300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4A6D57-D99F-4F34-A1F1-F1D7B14F3300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4A6D57-D99F-4F34-A1F1-F1D7B14F3300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4A6D57-D99F-4F34-A1F1-F1D7B14F3300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
