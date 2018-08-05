@@ -24,9 +24,6 @@ namespace SaveThePrincess2
                 }
             }
 
-            int distanceX = princessX - botX;
-            int distanceY = princessY - botY;
-
             if (botX != princessX)
             {
                 if (botX < princessX)
